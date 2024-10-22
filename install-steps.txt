@@ -1,5 +1,5 @@
 ########################INSTALL PYTHON 3.9.12#########################
-
+https://stackoverflow.com/questions/76388016/error-can-not-import-paddle-core-while-this-file-exists
 1)sudo apt-get update
 2)sudo apt-get upgrade
 3)curl https://pyenv.run | bash
